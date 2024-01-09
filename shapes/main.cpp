@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 #include <cmath>
+#include "Shape.h"
 #define M_PI 3.1415926
 
 using namespace std;
